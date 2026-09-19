@@ -4,7 +4,7 @@
 
  
   
-
+---
 
 <p align="center">
 <a href="https://github.com/s4ntrx/github-profile-views-counter">
@@ -35,7 +35,7 @@
 
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
-<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" />
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="150" />
 
 
 </div>
