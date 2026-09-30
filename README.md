@@ -120,11 +120,7 @@
  </a>
 
  
----
 
-<iframe src="https://app.ctfroom.com/badge?badge_id=TFBCeXZZT2Y1OURackxReWFCME5oMithMlFaVEdlczRrV0xVOHJlQWZoQT0%3D" title="Neophyte" loading="lazy" style="width:100%;min-height:720px;border:0;"></iframe>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A0A&height=100&section=footer" />
