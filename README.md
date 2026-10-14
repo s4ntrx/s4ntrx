@@ -4,18 +4,15 @@
 
 
 ---
-<div>
+
+
 <p align="center">  
   
 [![Support my work](./paystack-badge.svg)](https://paystack.shop/pay/bxg5kd2ghg)
 
-</p>
-
-
  <a href="spicezke@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="S4NTRX" />
  </a>
- 
 
 <a href="https://github.com/s4ntrx/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=s4ntrx">
