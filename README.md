@@ -2,18 +2,20 @@
   <img src="./images/cyber-banner.png" alt="S4NTRX Cybersecurity Banner" width="100%">
 </div>
 
- 
+
+---
+<div>
+<p align="center">  
   
----
+[![Support my work](./paystack-badge.svg)](https://paystack.shop/pay/bxg5kd2ghg)
 
-[![Support my work](https://img.shields.io/badge/♥-Support%20my%20work-202B2A?style=flat&logo=paystack&logoColor=35D0AE&labelColor=202B2A)](https://paystack.shop/pay/bxg5kd2ghg)
+</p>
 
----
-
+<p align="center"> 
  <a href="spicezke@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="S4NTRX" />
  </a>
- 
+ </p>
 <p align="center">
 <a href="https://github.com/s4ntrx/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=s4ntrx">
