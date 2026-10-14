@@ -6,6 +6,9 @@
   
 ---
 
+[![Support my work](https://img.shields.io/badge/♥-Support%20my%20work-202B2A?style=flat&logo=paystack&logoColor=35D0AE&labelColor=202B2A)](https://paystack.shop/pay/bxg5kd2ghg)
+
+---
 
  <a href="spicezke@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="S4NTRX" />
