@@ -20,8 +20,6 @@
 <a href="https://github.com/s4ntrx?tab=followers"><img src="https://img.shields.io/github/followers/s4ntrx?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-</div>
-
 ---
 
 
