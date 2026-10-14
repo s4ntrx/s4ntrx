@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="38" viewBox="0 0 224 38">
+  <rect x="0.5" y="0.5" width="223" height="37" rx="19" fill="#202B2A" stroke="#087F68"/>
+  <path d="M17 13 C13 7 5 12 17 23 C29 12 21 7 17 13Z" fill="#35D0AE"/>
+  <text x="32" y="23.5" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="12" font-weight="600">Support Me</text>
+  <rect x="151" y="7" width="65" height="24" rx="12" fill="#00C3A0"/>
+  <text x="183.5" y="22.5" fill="#062B24" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">Paystack</text>
+</svg>
