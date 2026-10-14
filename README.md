@@ -5,6 +5,13 @@
 
 ---
 
+<a href="https://paystack.shop/pay/bxg5kd2ghg">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%20Support%20my%20work-Paystack-00C3A0?style=flat&labelColor=202B2A"
+       alt="Support my work via Paystack"
+       height="28"
+       style="border-radius: 18px;">
+</a>
+
 
 <p align="center">  
   
