@@ -1,0 +1,33 @@
+name: Update monthly activity wave
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monthly-activity-wave
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate rolling 30-day activity wave
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_monthly_activity_wave.py
+
+      - name: Commit updated activity data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/monthly-activity-wave.svg
+          git diff --cached --quiet || git commit -m "chore: refresh monthly activity wave"
+          git push
