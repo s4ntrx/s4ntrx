@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s4ntrx&theme=github_dark" alt="GitHub profile statistics" width="47%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s4ntrx&theme=github_dark" alt="GitHub profile statistics" width="100%" />
       <br/>
  <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=s4ntrx&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
       <br/>
