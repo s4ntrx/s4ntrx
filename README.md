@@ -72,8 +72,10 @@
 </table>
  
 ---
-<img src="https://streak-stats.demolab.com/?user=gokul-debugger&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
+<a href="https://github.com/s4ntrx">
+  <img src="./assets/monthly-activity-wave.svg" alt="S4NTRX's GitHub activity over the last 30 days" width="95%" />
+</a>
 
 ---
 ###
