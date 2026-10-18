@@ -72,10 +72,7 @@
 </table>
  
 ---
-
-## 📈 Activity Graph
-
-[![S4NTRX's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=s4ntrx&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com/?user=gokul-debugger&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
 
 ---
