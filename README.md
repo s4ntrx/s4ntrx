@@ -57,8 +57,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=s4ntrx&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
-             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s4ntrx&theme=github_dark" alt="GitHub profile statistics" width="47%" />
       <br/>
  <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=s4ntrx&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
       <br/>
