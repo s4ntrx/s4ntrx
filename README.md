@@ -20,6 +20,8 @@
     <img src="https://komarev.com/ghpvc/?username=s4ntrx">
 </a>
 <a href="https://github.com/s4ntrx?tab=followers"><img src="https://img.shields.io/github/followers/s4ntrx?label=Followers&style=social" alt="GitHub Badge"></a>
+
+[![committers.top badge](https://user-badge.committers.top/kenya/s4ntrx.svg)](https://user-badge.committers.top/kenya/s4ntrx)
 </p>
 
 ---
