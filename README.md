@@ -201,7 +201,6 @@ Away from the keyboard I am drawn to surrealism, classical art, romanticism, dar
 
 <br><br>
 
-<a href="https://github.com/s4ntrx/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=s4ntrx&label=VISITORS&color=F8E028&style=for-the-badge" alt="Profile visitors"></a>
 
 <h3>Pacman Contribution Animation</h3>
 
