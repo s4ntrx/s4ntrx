@@ -197,7 +197,7 @@ Away from the keyboard I am drawn to surrealism, classical art, romanticism, dar
 
 <div align="center">
 
-<img src="./assets/visitor-clock.svg" alt="Digital clock showing the profile visitor count" width="400">
+<img src="./assets/visitor-clock.svg" alt="Digital clock showing the profile visitor count" width="300">
 
 <br><br>
 
