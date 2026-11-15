@@ -1,3 +1,4 @@
+
 name: Visitor clock
 
 on:
@@ -11,6 +12,7 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -22,9 +24,14 @@ jobs:
         run: node .github/scripts/visitor-clock.mjs
         env:
           GH_USER: s4ntrx
-          # Add this to the badge count. Use it if the badge shows less than your real total.
-        
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push visitor clock
+        run: |
           git add assets/visitor-clock.svg
-          git commit -m "Update visitor clock"
+          git commit -m "Update visitor clock" || exit 0
           git push
