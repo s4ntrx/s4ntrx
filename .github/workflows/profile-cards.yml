@@ -1,0 +1,36 @@
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Draw the stats and top languages cards
+        run: node .github/scripts/profile-cards.mjs
+        env:
+          GH_USER: s4ntrx
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit when a card changed
+        run: |
+          if git diff --quiet -- assets/stats-card.svg assets/languages-card.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-card.svg assets/languages-card.svg
+          git commit -m "Update profile cards"
+          git push
